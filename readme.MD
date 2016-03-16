@@ -1,6 +1,6 @@
 # Make Donald Drumpf Again #
 
-Replaces all mentions of Donald Trump on your WordPress website with Donald Drumpf.
+Replaces all mentions of Donald Trump's last name with 'Drumpf' on your website.
 
 ## Description ##
 
@@ -10,7 +10,7 @@ This plugin is not affiliated with [Make Donald Drumpf Again! website](http://ww
 
 [Donate link](https://www.crowdpac.com/elections/2016-presidential-election/donate) leads to crowdpac.com so you could donate to a candidate of your choice.
 
-Feel free to [https://www.paypal.me/rinatk](buy me a beer) though.
+Feel free to [buy me a beer](https://www.paypal.me/rinatk) though.
 
 ## Installation ##
 
